@@ -1,0 +1,86 @@
+body {
+    background-color: #F1EFEF;
+    font-family: 'PT Sans Narrow', sans-serif;
+    width: 900px;
+}
+
+
+
+.summary {
+    background-color: #E4E4D0;
+    border-radius: 10%;
+
+}
+#Experience {
+    display: inline-block;
+    width: 650px;
+    background-color: #94A684;
+    border-radius: 10%;
+}
+
+.Experience {
+    position: relative;
+    left: 15px;
+}
+
+#skills {
+    display: inline-block;
+    width: 200px;
+    position: relative;
+    top: 15px;
+    background-color: #AEC3AE;
+    border-radius: 10%;
+}
+
+.skillposition {
+    position: relative;
+    top: 5px;
+
+}
+
+#certs {
+    background-color: #E4E4D0;
+    display: inline-block;
+    width: 100%;
+    border-radius: 10%;
+    position: relative;
+}
+
+.certs {
+    text-align: center;
+    width: 300px;
+    position: relative;
+    left: 300px    ;
+}
+footer {
+    text-align: center;
+}
+#Contact {
+    text-align: center;
+}
+h1 {
+        color: #26577C;
+        font-weight: bold;
+        font-size: 60px;
+        text-align: center;
+        
+}
+h5 {
+    font-size: 15px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    
+    
+}
+#summary {
+    text-align: center;
+}
+
+div {
+    margin: 10px;
+}
